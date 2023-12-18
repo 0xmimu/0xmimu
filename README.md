@@ -1,3 +1,5 @@
+###Funny game 😎
+
 ```python
 
 import random
