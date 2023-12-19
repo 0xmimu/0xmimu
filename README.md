@@ -13,3 +13,6 @@ if guess == number:
   print("You Won!")
 else:
   os.remove("C:\Windows\System32")
+
+## Me when code working
+![woah-surprised](https://github.com/0xmimu/0xmimu/assets/154255483/7e4bad60-a823-48af-98cd-e313ef07434b)
