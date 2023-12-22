@@ -1,4 +1,4 @@
-##Funny game 😎
+## Funny game 😎
 
 ```python
 
